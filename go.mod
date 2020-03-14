@@ -1,8 +1,8 @@
-module github.com/apache/mynewt-mcumgr-cli
+module github.com/mfiumara/mynewt-mcumgr-cli
 
 go 1.12
 
 require (
 	mynewt.apache.org/newt v0.0.0-20190805215728-4e771ee138aa
-	mynewt.apache.org/newtmgr v0.0.0-20190909210301-5029f07bf173
+	github.com/mfiumara/mynewt-newtmgr v0.0.0-20200314170647-1cca6bb670f2
 )
